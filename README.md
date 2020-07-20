@@ -4,7 +4,7 @@
 
 
 <a href="https://twitter.com/iAbhishGupta">
-<img align="left" alt="Abhishek Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Abhishek Gupta | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iabhishgupta/">
 <img align="left" alt="Abhishek Gupta's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
