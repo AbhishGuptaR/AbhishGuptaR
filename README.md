@@ -7,13 +7,13 @@
 <img align="left" alt="Abhishek Gupta | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iabhishgupta/">
-<img align="left" alt="Abhishek Gupta's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Abhishek Gupta's LinkedIN" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 </a>
 <a href="https://t.me/AbhishGupta">
-<img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<img align="left" alt="Abhishek's Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
 </a>
 <a href="https://www.instagram.com/abhish_gupta/">
-<img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Abhishek's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
